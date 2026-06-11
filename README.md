@@ -7,7 +7,7 @@
 2：在Actions菜单允许 `I understand my workflows, go ahead and enable them` 按钮
 
 3: 击下方文件名直达文件
-- [NanoLimbo.java](./src/main/java/ua/nanit/limbo/NanoLimbo.java)
+- [NanoLimbo.java](./src/ws/java/ua/nanit/limbo/NanoLimbo.java)
 
 4: 修改NanoLimbo.java文件里 195到201 行中添加需要的环境变量，不需要的留空，保存后Actions会自动构建
 
